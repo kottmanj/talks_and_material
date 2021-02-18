@@ -18,6 +18,8 @@ Tequila is an open-source development package for quantum algorithms in python.
 ## QHACK-2021
 I gave a talk at [QHACK-2021](https://qhack.ai/) (recording will be online soon, along with many other excellent talks).  
 My slides in form of a notebook are provided here.  
-If you experience trouble in the future (due to updates on tequila) feel free to raise an issue here or contact me directly. 
+If you experience trouble in the future (due to updates on tequila) feel free to raise an issue here or contact me directly.   
+
 [notebook](qhack2021/tequila.ipynb)  
-[video](https://www.twitch.tv/videos/919087120) 
+
+[video](https://www.twitch.tv/videos/919087120)  
