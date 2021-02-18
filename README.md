@@ -20,4 +20,4 @@ I gave a talk at [QHACK-2021](https://qhack.ai/) (recording will be online soon,
 My slides in form of a notebook are provided here.  
 If you experience trouble in the future (due to updates on tequila) feel free to raise an issue here or contact me directly. 
 [notebook](qhack2021/tequila.ipynb)  
-video (link is coming soon)   
+[video](https://www.twitch.tv/videos/919087120) 
