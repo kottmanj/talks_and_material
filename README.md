@@ -23,3 +23,6 @@ If you experience trouble in the future (due to updates on tequila) feel free to
 [notebook](qhack2021/tequila.ipynb)  
 
 [video](https://www.youtube.com/watch?v=qme44e3W2Us)  
+
+## Notes on minimal spanning trees  
+[uau_mst.pdf](uau_mst.pdf)  
