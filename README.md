@@ -28,12 +28,14 @@ I gave a quick demonstration of our basis-set-free approach for the variational 
 
 
 ## Tequila 
-Tequila is an open-source development package for quantum algorithms in python.  
-[Slides](tequila.pdf)  
-[Tequila code on github](https://github.com/aspuru-guzik-group/tequila)  
-[Tutorials](https://github.com/aspuru-guzik-group/tequila/tree/master/tutorials)   
-[Talk at Quantum Research Seminars Toronto](https://www.youtube.com/watch?v=hUdf0P2fW2E)  
-[Talk at Zaiku Group](https://www.youtube.com/watch?v=TEBS80pEp7Y)  
+Tequila is an open-source development package for quantum algorithms in python. 
+Talks with explicit code examples: qhack-2021 and aqi-2022 (different talks)   
+- [Slides (technical overview)](tequila.pdf)  
+- [hands-on slides](qai2022/talk.pdf)
+- [Tequila code on github](https://github.com/aspuru-guzik-group/tequila)  
+- [Tutorials](https://github.com/aspuru-guzik-group/tequila/tree/master/tutorials)   
+- [Talk at Quantum Research Seminars Toronto](https://www.youtube.com/watch?v=hUdf0P2fW2E)  
+- [Talk at Zaiku Group](https://www.youtube.com/watch?v=TEBS80pEp7Y)  
 
 ## QHACK-2021
 I gave a talk at [QHACK-2021](https://qhack.ai/) (recording will be online soon, along with many other excellent talks).  
@@ -43,6 +45,10 @@ If you experience trouble in the future (due to updates on tequila) feel free to
 [notebook](qhack2021/tequila.ipynb)  
 
 [video](https://www.youtube.com/watch?v=qme44e3W2Us)  
+
+## Quantum Algorithms Institute 2022
+A hands-on talk on tequila with explicit code examples  
+see the [qai2022](qai2022) directory  
 
 ## Notes on minimal spanning trees  
 [uau_mst.pdf](uau_mst.pdf)  

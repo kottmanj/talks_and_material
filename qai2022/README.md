@@ -2,7 +2,7 @@
 Given in February 2022 at the [Quantum Algorithms Institute](https://quantumalgorithms.ca/).  
 
 - Basics about [tequila](https://github.com/tequilahub/tequila)
-- Small examples
+- Small examples:
 -- VQE
 -- Excited State VQE
 -- State preparation and circuit optimization
