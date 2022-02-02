@@ -1,6 +1,11 @@
 # Lunch and Learn talk
 Given in February 2022 at the [Quantum Algorithms Institute](https://quantumalgorithms.ca/).  
 
+- [slides](aqi.pdf)  
+- [code-examples](code)  
+
+See also the tutorial collection at [github/tequilahub](https://github.com/tequilahub)
+### Content:
 - Basics about [tequila](https://github.com/tequilahub/tequila) with small examples:
 - VQE
 - Excited State VQE
@@ -9,9 +14,6 @@ Given in February 2022 at the [Quantum Algorithms Institute](https://quantumalgo
 - MRA-PNOs
 - Separated Pair Ansatz  
 
-in [code](code) you find explicit scripts that reproduce data from the talk
-
-See also the tutorial collection at [github/tequilahub](https://github.com/tequilahub)
 
 ### Papers:
 - Tequila Overview paper: [arxiv:2011.03057](https://arxiv.org/abs/2011.03057)
