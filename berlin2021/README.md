@@ -1,7 +1,7 @@
 # One- and Many-Body Aspects of Quantum Chemistry
 Recording of a talk I gave at Jens Eisert's group, November 2021:  
 
-[slides](ageisert.pdf)   
+[slides](berlin.pdf)   
 [video](https://www.youtube.com/watch?v=c0lzuezTDTQ)   
 
 ### Papers:
