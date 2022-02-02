@@ -42,8 +42,8 @@ I gave a talk at [QHACK-2021](https://qhack.ai/) (recording will be online soon,
 My slides in form of a notebook are provided here.  
 If you experience trouble in the future (due to updates on tequila) feel free to raise an issue here or contact me directly.   
 
+[slides](qhack2021/slides/tequila.slides.html)  
 [notebook](qhack2021/tequila.ipynb)  
-
 [video](https://www.youtube.com/watch?v=qme44e3W2Us)  
 
 ## Quantum Algorithms Institute 2022
