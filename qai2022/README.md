@@ -9,6 +9,14 @@ Given in February 2022 at the [Quantum Algorithms Institute](https://quantumalgo
 - MRA-PNOs
 - Separated Pair Ansatz  
 
-in [code](code) there are explicit scripts that reproduce data from the talk
+in [code](code) you find explicit scripts that reproduce data from the talk
 
 See also the tutorial collection at [github/tequilahub](https://github.com/tequilahub)
+
+### Papers:
+- Tequila Overview paper: [arxiv:2011.03057](https://arxiv.org/abs/2011.03057)
+- Automatically Differentiable Unitary Coupled-Cluster: [arxiv:2011.05938](https://arxiv.org/abs/2011.05938) (applications to Adaptive Solvers and Excited States):
+- Basis-Set-Free VQEs: [arxiv:2008.02819](https://arxiv.org/abs/2008.02819)
+- Separable Pair Approximations: [arXiv:2105.03836](https://arxiv.org/abs/2105.03836) (compact and classically simulable quantum circuits)
+- Overview of Unitary Coupled-CLuster: [arXiv:2109.15176](https://arxiv.org/abs/2109.15176)
+
