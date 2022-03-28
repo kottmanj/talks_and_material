@@ -1,7 +1,7 @@
 # Lunch and Learn talk
 Given in February 2022 at the [Quantum Algorithms Institute](https://quantumalgorithms.ca/).  
 
-- [slides](aqi.pdf)  
+- [slides](talk.pdf)  
 - [code-examples](code)  
 
 See also the tutorial collection at [github/tequilahub](https://github.com/tequilahub)
