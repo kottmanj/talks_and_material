@@ -7,7 +7,7 @@ Recording of a talk I gave at the Chemistry-Departments seminar at TU Braunschwe
 Some slides contain small code examples. These slides are taken from a Tequila tutorial that can be found [here](../qai2022/).    
 
 These are the explicit files containing those examples (file names in the lower right corner of the corresponding slide):   
-- [example_objective.py](../aqi2022/code/example_objective.py)
+- [example_objective.py](../qai2022/code/example_objective.py)
 - [example_nested_objective](../qai2022/code/example_nested_objective.py)
 - [ch4.py](../qai2022/code/ch4.py)  
 
