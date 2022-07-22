@@ -1,3 +1,8 @@
+# Required Dependencies:
+# Madness from fork: github.com/kottmanj/madness (see readme for installation instruction)
+# PySCF: pip install pyscf | alternative: psi4
+# Not necessary but recommended (tq.minimize will be much faster):
+# Qulacs: pip install qulacs
 import tequila as tq
 
 mol = tq.Molecule(geometry="ch4.xyz")
