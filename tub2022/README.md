@@ -1,5 +1,5 @@
 
-# One- and Many-Body Aspects of Quantum Chemistry
+# Variational Algorithms for Quantum Chemistry with Tequila
 Recording of a talk I gave at the Chemistry-Departments seminar at TU Braunschweig, July 2022:  
 
 [slides](tub.pdf)   
