@@ -2,7 +2,7 @@
 # Variational Algorithms for Quantum Chemistry with Tequila
 Recording of a talk I gave at the Chemistry-Departments seminar at TU Braunschweig, July 2022:  
 
-[slides](tub.pdf)   
+[slides](tub2022.pdf)   
 
 Some slides contain small code examples. These slides are taken from a Tequila tutorial that can be found [here](../qai2022/).    
 
