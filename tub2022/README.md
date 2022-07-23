@@ -11,7 +11,7 @@ These are the explicit files containing those examples (file names in the lower 
 - [example_nested_objective](../qai2022/code/example_nested_objective.py)
 - [ch4.py](../qai2022/code/ch4.py)  
 
-Tequila codebase and tutorials can be found here (see also below for explicit links): [https://github.com/tequilahub](github.com/tequilahub).  
+Tequila codebase and tutorials can be found here (see also below for explicit links): [github.com/tequilahub](https://github.com/tequilahub).  
 
 ### Relevant Papers:
 - Tequila Overview paper: [arxiv:2011.03057](https://arxiv.org/abs/2011.03057)
