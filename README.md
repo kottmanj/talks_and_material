@@ -1,5 +1,6 @@
 # Slides and Videos of Public talks:
 
+- [Molecular Quantum Circuit Design](cmd29)
 - [One- and Many-Body Aspects of Quantum Chemistry](berlin2021)
 - [A Basis-Set-Free Variational Quantum Eigensolver](ieee2020)
 - [Tequila: Hands-On Introduction](qai2022)
