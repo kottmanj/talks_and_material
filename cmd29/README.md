@@ -1,6 +1,6 @@
 # Molecular Quantum Circuit Design
 
-<img src="GraphCartoon.png" width=400 align="center">
+<img src="GraphCartoon.png" width=600 align="middle">
 
 Talk I gave at the [Integrating Quantum Computers into Condensed Matter Simulations](https://iop.eventsair.com/cmd29/integrating-quantum-computers-in-condensed-matter-physics-simulations) mini-symposium at the [CMD29](https://cmd29.iopconfs.org/) IOP-conference in Manchester (August 2022).  
 Slides are here: [Manchester-IOP.pdf](Manchester-IOP.pdf)  
