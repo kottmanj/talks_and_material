@@ -8,7 +8,7 @@ Talk I gave at the [New Trends in Computational Chemistry](https://www.iqtc.ub.e
 
 - Slides are here: [Barcelona2022.pdf](Barcelona.pdf)  
 - Code examples are [here](code): 
-- Further code examples can be found in this talk [qai2022](https://kottmanj.github.io/talks_and_material/qai2022/)
+- Further code examples can be found in this talk [qai2022](https://kottmanj.github.io/talks_and_material/qai2022/) or [in a nutshell](https://kottmanj.github.io/tequila-in-a-nutshell/#/)
 
 
 ### Relevant Papers:
