@@ -1,7 +1,7 @@
 # Molecular Quantum Circuit Design
 
 <p align="center" width="100%">
-<img align="middle" src="GraphCartoon.png" width=600>
+<img align="middle" src="../cmd29/GraphCartoon.png" width=600>
 </p>
 
 Talk I gave at the [New Trends in Computational Chemistry](https://www.iqtc.ub.edu/education-outreach/new-trends-2/new-trends-in-computational-chemistry-2022-program/) workshop in Barcelona (September 2022).      
