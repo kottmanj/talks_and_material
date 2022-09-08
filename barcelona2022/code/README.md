@@ -1,5 +1,5 @@
-# Code examples from Barcelone talk
-- see slides for filenames
+# Code examples from Barcelona talk
+- see [slides](../Barcelona2022.pdf) for filenames
 ## Install tequila
 ```bash
 pip install tequila-basic
