@@ -1,8 +1,7 @@
 # Erlangen 2023: Molecular Quantum Circuit Design
-Additional information and hyperlinks for the QIP2023 [poster](qip2023.pdf) and [abstract](abstract.pdf):
 
 ## Contents
-- [slides](talk.pdf)  
+- [slides](erlangen2023.pdf)  
 - [extended abstract](abstract.pdf)  
 
 ## Papers
